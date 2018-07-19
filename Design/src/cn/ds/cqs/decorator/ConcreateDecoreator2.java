@@ -14,4 +14,5 @@ public class ConcreateDecoreator2 extends Decoreator {
         super.operation();
         decoreatorOperate();
     }
+
 }
