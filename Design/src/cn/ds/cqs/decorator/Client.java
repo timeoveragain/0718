@@ -6,5 +6,6 @@ public class Client {
         c = new ConcreateDecoreator1(c);
         c = new ConcreateDecoreator2(c);
         c.operation();
+        System.out.println("tttttttttttttttt");
     }
 }
